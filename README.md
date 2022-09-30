@@ -4,7 +4,7 @@ Hallo, I’m @rumpeltin
   - How to build websites that help buisnesses grow their influence while maintaining their integrity..
   - Or how to create an online presence from scratch and maintaining its allure in a novelty-orientated environment!
   - And, of course, how to navigate the relationship between the inherent logic and superficial grandeur of websites.
-- 👾 Apart from Web Dev, I play video games, cycle a lot, love to read, enjoy photo- as well as videography and listen to music.
+- 👾 Apart from Web Dev I play video games, cycle a lot, love to read, enjoy photo- as well as videography and listen to music.
 - 📫 You can reach me via n.rumpeltin@proton.me
 
 <!---
