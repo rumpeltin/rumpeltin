@@ -1,10 +1,12 @@
 Hallo, I’m @rumpeltin
-- 🌱 On 29nd Nov, my Full-Stack Web Development course @CareerFoundry was kicked off.
-- I'm hoping to learn an abundance of things:
-  - How to build websites that help buisnesses grow their influence while maintaining their integrity..
-  - Or how to create an online presence from scratch and maintaining its allure in a novelty-orientated environment!
-  - And, of course, how to navigate the relationship between the inherent logic and superficial grandeur of websites.
-- 👾 Apart from Web Dev I play video games, cycle a lot, love to read, enjoy photo- as well as videography and listen to music.
+- 🌱 Nov '22: Full-Stack Web Development course @CareerFoundry
+- ☁️ May '23: In-Depth Cloud Engineering course @DigitalFutures
+
+- Now I've acquired the ability to do an abundance of things:
+  - Build secure websites that help buisnesses grow their influence while maintaining their integrity
+  - Create an online presence from scratch and maintaining its allure in a novelty-orientated society
+  - Navigate the relationship between the inherent logic and superficial grandeur of websites
+- 👾 Apart from coding, I enjoy video games, cycling, reading, the visual arts and music.
 - 📫 You can reach me via n.rumpeltin@proton.me
 
 <!---
