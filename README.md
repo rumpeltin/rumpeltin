@@ -14,16 +14,14 @@
 <code><img height="36" src="https://cdn.simpleicons.org/go/00ADD8"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/remix/white"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/docker/2496ED"></code>
-<code><img height="36" src="https://cdn.simpleicons.org/looker/4285F4"></code>
+<code><img height="36" src="https://cdn.simpleicons.org/sass/CC6699"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/postgresql/4169E1"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/html5/E34F26"></code>
-<code><img height="36" src="https://cdn.simpleicons.org/springboot/6DB33F"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/nodedotjs/5FA04E"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/typescript/3178C6"></code>
-<code><img height="36" src="https://cdn.simpleicons.org/sass/CC6699"></code>
+<code><img height="36" src="https://cdn.simpleicons.org/looker/4285F4"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/jest/C21325"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/git/F05032"></code>
-<code><img height="36" src="https://cdn.simpleicons.org/css/663399"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/kotlin/7F52FF"></code>
 
 
