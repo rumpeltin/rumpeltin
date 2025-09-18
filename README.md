@@ -8,7 +8,6 @@
 
 ### Favourite Toys
 <code><img height="36" src="https://cdn.simpleicons.org/spring/6DB33F"></code>
-<code><img height="36" src="https://cdn.simpleicons.org/amazonwebservices/FF5500"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/react/61DAFB"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/dotnet/512BD4"></code>
 <code><img height="36" src="https://cdn.simpleicons.org/go/00ADD8"></code>
