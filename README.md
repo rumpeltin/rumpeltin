@@ -67,5 +67,5 @@ fun createValue(): Map<String, String> {
 
 ---
 
-- 👾 Apart from coding, I enjoy video games, cycling, literature, the visual arts and music.
+- 👾 Apart from coding, I enjoy rock climbing, cycling, literature, the visual arts and music.
 - 📫 You can reach me via n@rumpeltin.io
